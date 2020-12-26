@@ -1,0 +1,34 @@
+/* 
+  Answer Questions.strings
+  CurrencyConverter
+
+  Created by Mahmoud Salaheldin on 12/26/20.
+  Copyright © 2020 Mahmoud Salaheldin. All rights reserved.
+
+
+Q1: What 3rd party libraries did you use and why?
+
+Answer1: 1-Alamofire for networking.
+         2-AnyCodable for mapping json objects from API.
+         3-TTGSnackbar for Alerts.
+-------------------------------------------------------------------------------------------
+Q2: What architecture did you use and why ?
+
+Answer2: MMVM for Clear Architecure and less module dependencies between layers and avoiding
+         massive view controller problems caused by MVC.
+-------------------------------------------------------------------------------------------
+
+
+Answer3: Let’s say that your team is working on this app and you are looking to add a new
+feature. Describe the process that you would follow in your current place of work
+to bring this from an initial idea to a live feature in production. What are the
+positives and negatives of this approach?
+
+Answer3: 1-Meeting with team members to discuess if it is applicalbe and needed for bussiness.
+         2-Analyze business requiremnts.
+         3-Check if there are any blocker to achieve that task.
+         4-Prober time estimation to deliver and meet the deadline.
+         5- always get updated with team members status if they are having shared tasks related
+            to required feature till end of development phase.
+         6- Testing.
+/*
